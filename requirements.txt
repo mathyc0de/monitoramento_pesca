@@ -1,0 +1,8 @@
+# Bindings Python do GStreamer / GLib (import gi)
+PyGObject>=3.42.0
+
+# Bindings Python do NVIDIA DeepStream (import pyds).
+# Não está no PyPI: vem com o DeepStream SDK.
+# Ex.: /opt/nvidia/deepstream/deepstream/lib  ou
+#      sources/deepstream_python_apps/bindings
+# pyds
